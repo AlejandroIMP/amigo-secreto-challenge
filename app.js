@@ -1,4 +1,4 @@
-let friends = ['Juan', 'Pedro', 'Pablo', 'Maria', 'Ana'];
+let friends = [];
 
 const mostrarAmigos = () => {
   const list = document.getElementById('listaAmigos');
